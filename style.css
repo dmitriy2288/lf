@@ -1,0 +1,50 @@
+header {
+   	background-color: black;
+} 
+
+header img {
+  width: 20px;
+  height: 30px;
+	padding: 5px;
+}
+
+header a {
+	text-decoration: none;
+	border-radius: 5px;
+	border: solid yellow 2px;
+	background-color: yellow;
+	padding: 4px;
+	margin: 2px 0px 5px 20px;
+}
+
+main {
+	background-color: white;
+} 
+
+main p {
+	font-size: 30px;
+}
+
+main h1 {
+	text-align: center;
+	font-size: 60px;
+	color: black;
+} 
+
+.b {
+	height: 70px;
+	width: 50px;
+	text-align: centre;
+}
+
+footer {
+	background-color: black;
+}
+
+footer a {
+	color: white;
+	text-decoration: none;
+	padding: 0px 0px 0px 10px;
+	font-size: 15px;
+}
+	
