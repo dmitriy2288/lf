@@ -14,12 +14,12 @@ header h1 {
 }
 
 header a {
+	text-align: right;
 	text-decoration: none;
 	border-radius: 5px;
 	border: solid yellow 2px;
 	background-color: yellow;
 	padding: 4px;
-	margin: 2px 0px 5px 20px;
 }
 
 main {
