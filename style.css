@@ -3,13 +3,14 @@ header {
 } 
 
 header img {
-	width: 40px
+	width: 40xp;
 	height: 50px;
 	padding: 5px;
 }
 
 header h1 {
-	text-align: centre 
+	text-align: centre; 
+	color: white;
 }
 
 header a {
